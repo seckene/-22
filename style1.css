@@ -64,6 +64,9 @@ height: 15rem;
 }
 
 .gauche{
+    
+    margin-top: -8rem;
+    z-index: -1;
     width: 100%;
     height: 38rem;
     background-image: url("https://img.freepik.com/premium-photo/holy-kaaba-surrounded-by-black-fabrics-decorated-with-gold-decorations_724205-1969.jpg");
